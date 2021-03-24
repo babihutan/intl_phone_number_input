@@ -528,33 +528,33 @@ class Countries {
     //     "ar": "البحرين"
     //   }
     // },
-    // {
-    //   "num_code": "50",
-    //   "alpha_2_code": "BD",
-    //   "alpha_3_code": "BGD",
-    //   "en_short_name": "Bangladesh",
-    //   "nationality": "Bangladeshi",
-    //   "dial_code": "+880",
-    //   "nameTranslations": {
-    //     "sk": "Bangladéš",
-    //     "se": "Bangladesh",
-    //     "pl": "Bangladesz",
-    //     "no": "Bangladesh",
-    //     "ja": "バングラデシュ",
-    //     "it": "Bangladesh",
-    //     "zh": "孟加拉国",
-    //     "nl": "Bangladesh",
-    //     "de": "Bangladesch",
-    //     "fr": "Bangladesh",
-    //     "es": "Bangladés",
-    //     "en": "Bangladesh",
-    //     "pt_BR": "Bangladesh",
-    //     "sr-Cyrl": "Бангладеш",
-    //     "sr-Latn": "Bangladeš",
-    //     "zh_TW": "孟加拉",
-    //     "ar": "بنغلاديش"
-    //   }
-    // },
+    {
+      "num_code": "50",
+      "alpha_2_code": "BD",
+      "alpha_3_code": "BGD",
+      "en_short_name": "Bangladesh",
+      "nationality": "Bangladeshi",
+      "dial_code": "+880",
+      "nameTranslations": {
+        "sk": "Bangladéš",
+        "se": "Bangladesh",
+        "pl": "Bangladesz",
+        "no": "Bangladesh",
+        "ja": "バングラデシュ",
+        "it": "Bangladesh",
+        "zh": "孟加拉国",
+        "nl": "Bangladesh",
+        "de": "Bangladesch",
+        "fr": "Bangladesh",
+        "es": "Bangladés",
+        "en": "Bangladesh",
+        "pt_BR": "Bangladesh",
+        "sr-Cyrl": "Бангладеш",
+        "sr-Latn": "Bangladeš",
+        "zh_TW": "孟加拉",
+        "ar": "بنغلاديش"
+      }
+    },
     // {
     //   "num_code": "52",
     //   "alpha_2_code": "BB",
@@ -4173,33 +4173,33 @@ class Countries {
     //     "ar": "ناورو"
     //   }
     // },
-    // {
-    //   "num_code": "524",
-    //   "alpha_2_code": "NP",
-    //   "alpha_3_code": "NPL",
-    //   "en_short_name": "Nepal",
-    //   "nationality": "Nepali, Nepalese",
-    //   "dial_code": "+977",
-    //   "nameTranslations": {
-    //     "sk": "Nepál",
-    //     "se": "Nepal",
-    //     "pl": "Nepal",
-    //     "no": "Nepal",
-    //     "ja": "ネパール",
-    //     "it": "Nepal",
-    //     "zh": "尼泊尔",
-    //     "nl": "Nepal",
-    //     "de": "Nepal",
-    //     "fr": "Népal",
-    //     "es": "Nepal",
-    //     "en": "Nepal",
-    //     "pt_BR": "Nepal",
-    //     "sr-Cyrl": "Непал",
-    //     "sr-Latn": "Nepal",
-    //     "zh_TW": "尼泊爾",
-    //     "ar": "نيبال"
-    //   }
-    // },
+    {
+      "num_code": "524",
+      "alpha_2_code": "NP",
+      "alpha_3_code": "NPL",
+      "en_short_name": "Nepal",
+      "nationality": "Nepali, Nepalese",
+      "dial_code": "+977",
+      "nameTranslations": {
+        "sk": "Nepál",
+        "se": "Nepal",
+        "pl": "Nepal",
+        "no": "Nepal",
+        "ja": "ネパール",
+        "it": "Nepal",
+        "zh": "尼泊尔",
+        "nl": "Nepal",
+        "de": "Nepal",
+        "fr": "Népal",
+        "es": "Nepal",
+        "en": "Nepal",
+        "pt_BR": "Nepal",
+        "sr-Cyrl": "Непал",
+        "sr-Latn": "Nepal",
+        "zh_TW": "尼泊爾",
+        "ar": "نيبال"
+      }
+    },
     // {
     //   "num_code": "528",
     //   "alpha_2_code": "NL",
@@ -4335,33 +4335,33 @@ class Countries {
     //     "ar": "النيجر"
     //   }
     // },
-    // {
-    //   "num_code": "566",
-    //   "alpha_2_code": "NG",
-    //   "alpha_3_code": "NGA",
-    //   "en_short_name": "Nigeria",
-    //   "nationality": "Nigerian",
-    //   "dial_code": "+234",
-    //   "nameTranslations": {
-    //     "sk": "Nigéria",
-    //     "se": "Nigeria",
-    //     "pl": "Nigeria",
-    //     "no": "Nigeria",
-    //     "ja": "ナイジェリア",
-    //     "it": "Nigeria",
-    //     "zh": "尼日利亚",
-    //     "nl": "Nigeria",
-    //     "de": "Nigeria",
-    //     "fr": "Nigéria",
-    //     "es": "Nigeria",
-    //     "en": "Nigeria",
-    //     "pt_BR": "Nigéria",
-    //     "sr-Cyrl": "Нигерија",
-    //     "sr-Latn": "Nigerija",
-    //     "zh_TW": "奈及利亞",
-    //     "ar": "نيجيريا"
-    //   }
-    // },
+    {
+      "num_code": "566",
+      "alpha_2_code": "NG",
+      "alpha_3_code": "NGA",
+      "en_short_name": "Nigeria",
+      "nationality": "Nigerian",
+      "dial_code": "+234",
+      "nameTranslations": {
+        "sk": "Nigéria",
+        "se": "Nigeria",
+        "pl": "Nigeria",
+        "no": "Nigeria",
+        "ja": "ナイジェリア",
+        "it": "Nigeria",
+        "zh": "尼日利亚",
+        "nl": "Nigeria",
+        "de": "Nigeria",
+        "fr": "Nigéria",
+        "es": "Nigeria",
+        "en": "Nigeria",
+        "pt_BR": "Nigéria",
+        "sr-Cyrl": "Нигерија",
+        "sr-Latn": "Nigerija",
+        "zh_TW": "奈及利亞",
+        "ar": "نيجيريا"
+      }
+    },
     // {
     //   "num_code": "570",
     //   "alpha_2_code": "NU",
@@ -4659,33 +4659,33 @@ class Countries {
     //     "ar": "باراغواي"
     //   }
     // },
-    // {
-    //   "num_code": "604",
-    //   "alpha_2_code": "PE",
-    //   "alpha_3_code": "PER",
-    //   "en_short_name": "Peru",
-    //   "nationality": "Peruvian",
-    //   "dial_code": "+51",
-    //   "nameTranslations": {
-    //     "sk": "Peru",
-    //     "se": "Peru",
-    //     "pl": "Peru",
-    //     "no": "Peru",
-    //     "ja": "ペルー",
-    //     "it": "Perù",
-    //     "zh": "秘鲁",
-    //     "nl": "Peru",
-    //     "de": "Peru",
-    //     "fr": "Pérou",
-    //     "es": "Perú",
-    //     "en": "Peru",
-    //     "pt_BR": "Peru",
-    //     "sr-Cyrl": "Перу",
-    //     "sr-Latn": "Peru",
-    //     "zh_TW": "秘鲁",
-    //     "ar": "بيرو"
-    //   }
-    // },
+    {
+      "num_code": "604",
+      "alpha_2_code": "PE",
+      "alpha_3_code": "PER",
+      "en_short_name": "Peru",
+      "nationality": "Peruvian",
+      "dial_code": "+51",
+      "nameTranslations": {
+        "sk": "Peru",
+        "se": "Peru",
+        "pl": "Peru",
+        "no": "Peru",
+        "ja": "ペルー",
+        "it": "Perù",
+        "zh": "秘鲁",
+        "nl": "Peru",
+        "de": "Peru",
+        "fr": "Pérou",
+        "es": "Perú",
+        "en": "Peru",
+        "pt_BR": "Peru",
+        "sr-Cyrl": "Перу",
+        "sr-Latn": "Peru",
+        "zh_TW": "秘鲁",
+        "ar": "بيرو"
+      }
+    },
     {
       "num_code": "608",
       "alpha_2_code": "PH",
@@ -4902,33 +4902,33 @@ class Countries {
     //     "ar": "رومانيا"
     //   }
     // },
-    // {
-    //   "num_code": "643",
-    //   "alpha_2_code": "RU",
-    //   "alpha_3_code": "RUS",
-    //   "en_short_name": "Russian Federation",
-    //   "nationality": "Russian",
-    //   "dial_code": "+7",
-    //   "nameTranslations": {
-    //     "sk": "Rusko",
-    //     "se": "Ruošša",
-    //     "pl": "Rosja",
-    //     "no": "Russland",
-    //     "ja": "ロシア",
-    //     "it": "Russia",
-    //     "zh": "俄罗斯",
-    //     "nl": "Rusland",
-    //     "de": "Russland",
-    //     "fr": "Russie",
-    //     "es": "Rusia",
-    //     "en": "Russia",
-    //     "pt_BR": "Rússia",
-    //     "sr-Cyrl": "Русија",
-    //     "sr-Latn": "Rusija",
-    //     "zh_TW": "俄羅斯",
-    //     "ar": "روسيا"
-    //   }
-    // },
+    {
+      "num_code": "643",
+      "alpha_2_code": "RU",
+      "alpha_3_code": "RUS",
+      "en_short_name": "Russian Federation",
+      "nationality": "Russian",
+      "dial_code": "+7",
+      "nameTranslations": {
+        "sk": "Rusko",
+        "se": "Ruošša",
+        "pl": "Rosja",
+        "no": "Russland",
+        "ja": "ロシア",
+        "it": "Russia",
+        "zh": "俄罗斯",
+        "nl": "Rusland",
+        "de": "Russland",
+        "fr": "Russie",
+        "es": "Rusia",
+        "en": "Russia",
+        "pt_BR": "Rússia",
+        "sr-Cyrl": "Русија",
+        "sr-Latn": "Rusija",
+        "zh_TW": "俄羅斯",
+        "ar": "روسيا"
+      }
+    },
     {
       "num_code": "646",
       "alpha_2_code": "RW",
@@ -5496,33 +5496,33 @@ class Countries {
     //     "ar": "الصومال"
     //   }
     // },
-    // {
-    //   "num_code": "710",
-    //   "alpha_2_code": "ZA",
-    //   "alpha_3_code": "ZAF",
-    //   "en_short_name": "South Africa",
-    //   "nationality": "South African",
-    //   "dial_code": "+27",
-    //   "nameTranslations": {
-    //     "sk": "Južná Afrika",
-    //     "se": "Mátta-Afrihká",
-    //     "pl": "Republika Południowej Afryki",
-    //     "no": "Sør-Afrika",
-    //     "ja": "南アフリカ",
-    //     "it": "Sudafrica",
-    //     "zh": "南非",
-    //     "nl": "Zuid-Afrika",
-    //     "de": "Südafrika",
-    //     "fr": "Afrique du Sud",
-    //     "es": "Sudáfrica",
-    //     "en": "South Africa",
-    //     "pt_BR": "África do Sul",
-    //     "sr-Cyrl": "Јужноафричка Република",
-    //     "sr-Latn": "Južnoafrička Republika",
-    //     "zh_TW": "南非",
-    //     "ar": "جنوب أفريقيا"
-    //   }
-    // },
+    {
+      "num_code": "710",
+      "alpha_2_code": "ZA",
+      "alpha_3_code": "ZAF",
+      "en_short_name": "South Africa",
+      "nationality": "South African",
+      "dial_code": "+27",
+      "nameTranslations": {
+        "sk": "Južná Afrika",
+        "se": "Mátta-Afrihká",
+        "pl": "Republika Południowej Afryki",
+        "no": "Sør-Afrika",
+        "ja": "南アフリカ",
+        "it": "Sudafrica",
+        "zh": "南非",
+        "nl": "Zuid-Afrika",
+        "de": "Südafrika",
+        "fr": "Afrique du Sud",
+        "es": "Sudáfrica",
+        "en": "South Africa",
+        "pt_BR": "África do Sul",
+        "sr-Cyrl": "Јужноафричка Република",
+        "sr-Latn": "Južnoafrička Republika",
+        "zh_TW": "南非",
+        "ar": "جنوب أفريقيا"
+      }
+    },
     // {
     //   "num_code": "239",
     //   "alpha_2_code": "GS",
@@ -6090,33 +6090,33 @@ class Countries {
     //     "ar": "تونس"
     //   }
     // },
-    // {
-    //   "num_code": "792",
-    //   "alpha_2_code": "TR",
-    //   "alpha_3_code": "TUR",
-    //   "en_short_name": "Turkey",
-    //   "nationality": "Turkish",
-    //   "dial_code": "+90",
-    //   "nameTranslations": {
-    //     "sk": "Turecko",
-    //     "se": "Durka",
-    //     "pl": "Turcja",
-    //     "no": "Tyrkia",
-    //     "ja": "トルコ",
-    //     "it": "Turchia",
-    //     "zh": "土耳其",
-    //     "nl": "Turkije",
-    //     "de": "Türkei",
-    //     "fr": "Turquie",
-    //     "es": "Turquía",
-    //     "en": "Turkey",
-    //     "pt_BR": "Peru",
-    //     "sr-Cyrl": "Турска",
-    //     "sr-Latn": "Turska",
-    //     "zh_TW": "土耳其",
-    //     "ar": "تركيا"
-    //   }
-    // },
+    {
+      "num_code": "792",
+      "alpha_2_code": "TR",
+      "alpha_3_code": "TUR",
+      "en_short_name": "Turkey",
+      "nationality": "Turkish",
+      "dial_code": "+90",
+      "nameTranslations": {
+        "sk": "Turecko",
+        "se": "Durka",
+        "pl": "Turcja",
+        "no": "Tyrkia",
+        "ja": "トルコ",
+        "it": "Turchia",
+        "zh": "土耳其",
+        "nl": "Turkije",
+        "de": "Türkei",
+        "fr": "Turquie",
+        "es": "Turquía",
+        "en": "Turkey",
+        "pt_BR": "Peru",
+        "sr-Cyrl": "Турска",
+        "sr-Latn": "Turska",
+        "zh_TW": "土耳其",
+        "ar": "تركيا"
+      }
+    },
     // {
     //   "num_code": "795",
     //   "alpha_2_code": "TM",
@@ -6333,7 +6333,7 @@ class Countries {
         "ar": "الولايات المتحدة"
       }
     },
-    {
+   // {
     //   "num_code": "858",
     //   "alpha_2_code": "UY",
     //   "alpha_3_code": "URY",
@@ -6414,33 +6414,33 @@ class Countries {
     //     "ar": "فانواتو"
     //   }
     // },
-    // {
-    //   "num_code": "862",
-    //   "alpha_2_code": "VE",
-    //   "alpha_3_code": "VEN",
-    //   "en_short_name": "Venezuela (Bolivarian Republic of)",
-    //   "nationality": "Venezuelan",
-    //   "dial_code": "+58",
-    //   "nameTranslations": {
-    //     "sk": "Venezuela",
-    //     "se": "Venezuela",
-    //     "pl": "Wenezuela",
-    //     "no": "Venezuela",
-    //     "ja": "ベネズエラ",
-    //     "it": "Venezuela",
-    //     "zh": "委内瑞拉",
-    //     "nl": "Venezuela",
-    //     "de": "Venezuela",
-    //     "fr": "Venezuela",
-    //     "es": "Venezuela",
-    //     "en": "Venezuela",
-    //     "pt_BR": "Venezuela",
-    //     "sr-Cyrl": "Венецуела",
-    //     "sr-Latn": "Venecuela",
-    //     "zh_TW": "委內瑞拉",
-    //     "ar": "فنزويلا"
-    //   }
-    // },
+    {
+      "num_code": "862",
+      "alpha_2_code": "VE",
+      "alpha_3_code": "VEN",
+      "en_short_name": "Venezuela (Bolivarian Republic of)",
+      "nationality": "Venezuelan",
+      "dial_code": "+58",
+      "nameTranslations": {
+        "sk": "Venezuela",
+        "se": "Venezuela",
+        "pl": "Wenezuela",
+        "no": "Venezuela",
+        "ja": "ベネズエラ",
+        "it": "Venezuela",
+        "zh": "委内瑞拉",
+        "nl": "Venezuela",
+        "de": "Venezuela",
+        "fr": "Venezuela",
+        "es": "Venezuela",
+        "en": "Venezuela",
+        "pt_BR": "Venezuela",
+        "sr-Cyrl": "Венецуела",
+        "sr-Latn": "Venecuela",
+        "zh_TW": "委內瑞拉",
+        "ar": "فنزويلا"
+      }
+    },
     // {
     //   "num_code": "704",
     //   "alpha_2_code": "VN",
@@ -6629,6 +6629,6 @@ class Countries {
     //     "zh_TW": "辛巴威",
     //     "ar": "زيمبابوي"
     //   }
-    }
+   // }
   ];
 }
