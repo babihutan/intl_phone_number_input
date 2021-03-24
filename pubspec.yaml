@@ -13,6 +13,8 @@ dependencies:
 
   libphonenumber: ^2.0.0
   libphonenumber_plugin: ^0.1.0
+  plugin_platform_interface: ^2.0.0
+  libphonenumber_platform_interface: ^0.2.0
   equatable: ^1.2.5
 
 dev_dependencies:
